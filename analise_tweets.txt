@@ -1,0 +1,30 @@
+
+Quantidade Total de Tweets: 785814
+Quantidade de Tweets sem identificação de data: 4014
+
+Quantidade de Tweets publicados por Mês/Ano
++--------------------------+--------------------------+--------------------+
+|Ano da publicação do Tweet|Mês da publicação do Tweet|Quantidade de Tweets|
++--------------------------+--------------------------+--------------------+
+|                      2018|                         8|              255921|
+|                      2018|                         9|              474192|
+|                      2018|                        10|               51687|
++--------------------------+--------------------------+--------------------+
+
+Hashtag Trending topics
++--------------------+----------+
+|            #Hashtag|Quantidade|
++--------------------+----------+
+|                #MPN|       578|
+|         #AFazenda10|       172|
+|                #20:|       171|
+|     #TheVoiceBrasil|       165|
+|       #MasterChefBR|       142|
+|#BTSLoveYourselfTour|       128|
+|         #LojaBolada|       123|
+|               #VMAs|       121|
+|     #OrgulhoEPaixão|       118|
+|         #SegundoSol|       117|
++--------------------+----------+
+only showing top 10 rows
+
